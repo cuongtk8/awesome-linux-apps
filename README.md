@@ -185,7 +185,7 @@
 - [Tagspaces](https://github.com/tagspaces/tagspaces) - Offline, open source and data manager. 👏
 - [Turtl](https://github.com/turtl/desktop) - Secure and collaborative notebook. 👏
 - [Obsidian](https://obsidian.md) - Powerful note-keeping in markdown with tons of plugins.
-- [logseq](https://logseq.com/) - Note-keeping in markdown, very nice pdf functionallity and flashcards. 👏
+- [Logseq](https://logseq.com/) - Note-keeping in markdown, very nice pdf functionallity and flashcards. 👏
 
 ## Office
 
