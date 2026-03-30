@@ -196,6 +196,7 @@
 ## Terminal
 
 - [Alacritty](https://github.com/jwilm/alacritty) - Cross-platform, GPU-accelerated terminal emulator. 👏
+- [Certificate Ripper](https://github.com/Hakky54/certificate-ripper) - A CLI tool to extract server certificates from a URL. 👏
 - [Fzf command-line fuzzy finder](https://github.com/junegunn/fzf) - General-purpose command-line fuzzy finder that makes searching in history way easier. 👏
 - [Hyper](https://github.com/zeit/hyper) - Terminal built on web technologies. 👏
 - [Kitty](https://github.com/kovidgoyal/kitty) - Fast, feature-rich, cross-platform, GPU based terminal. 👏
