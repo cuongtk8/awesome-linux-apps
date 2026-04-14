@@ -99,6 +99,7 @@
 - [Vim](https://github.com/vim/vim) - Greatly improved version of the good old UNIX editor Vi. 👏
 - [Visual Studio Code](https://github.com/Microsoft/vscode) - Free, open source, powerful and runs everywhere. 👏
 - [Zed](https://zed.dev/) - Fast, modern & open source code editor with focus on performance. 👏
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
 ## Databases
 
