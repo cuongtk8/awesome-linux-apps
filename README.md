@@ -186,6 +186,7 @@
 - [Turtl](https://github.com/turtl/desktop) - Secure and collaborative notebook. 👏
 - [Obsidian](https://obsidian.md) - Powerful note-keeping in markdown with tons of plugins.
 - [Logseq](https://logseq.com/) - Note-keeping in markdown, very nice pdf functionallity and flashcards. 👏
+- [qnote](https://github.com/Omibranch/qnote) - Minimal frameless notepad with Markdown, PDF export via Typst, OCR, and version history. Built with Tauri 2. Available on AUR. 👏
 
 ## Office
 
