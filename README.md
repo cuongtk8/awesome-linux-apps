@@ -20,6 +20,7 @@
 - [Notes](#notes)
 - [Office](#office)
 - [Terminal](#terminal)
+- [Utilities](#utilities)
 - [Version Control](#version-control)
 - [Video](#video)
 - [Virtualization](#virtualization)
@@ -209,6 +210,10 @@
 - [Tilix](https://github.com/gnunn1/tilix/) - Tiling terminal emulator using GTK+ 3. 👏
 - [Tmux](https://github.com/tmux/tmux/) - Tmux is a terminal multiplexer, like screen, but much better. 👏
 - [Upterm](https://github.com/railsware/upterm) - Terminal emulator for the 21st century. 👏
+
+## Utilities
+
+- [CrossMacro](https://github.com/alper-han/CrossMacro) - Cross-platform mouse and keyboard macro recorder, player, editor, and text expansion tool with Wayland and X11 support. 👏
 
 ## Version Control
 
