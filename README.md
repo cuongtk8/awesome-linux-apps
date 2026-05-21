@@ -219,6 +219,7 @@
 - [Git Extensions](https://github.com/gitextensions/gitextensions) - Standalone UI tool for managing git repositories. 👏
 - [Git Horizon](https://www.cycligent.com/git-tool) - Cross-platform, Actionable, Graphical Git Dashboard.
 - [GitKraken](https://www.gitkraken.com/) - Git client with efficiency, elegance and reliability.
+- [GitSquid](https://gitsquid.dev/) - Cross-platform Git GUI client with visual commit graph and per-line staging.
 - [SmartGit](https://www.syntevo.com/smartgit/) - Graphical Git client with support for SVN and Pull Requests for GitHub and Bitbucket.
 - [Sublime Merge](https://www.sublimemerge.com/) - Powerful Git client from the creators of Sublime Text.
 - [ungit](https://github.com/FredrikNoren/ungit) - Clean and intuitive UI, running on the web. 👏
