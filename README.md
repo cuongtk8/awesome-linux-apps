@@ -56,6 +56,7 @@
 - [Edge](https://www.microsoftedgeinsider.com/en-us/download?platform=linux-deb) - Fast and secure browser by Microsoft.
 - [Firefox](https://www.mozilla.org/en-US/firefox/) - Fast, lightweight and powerfully private web browser.
 - [Midori](https://www.midori-browser.org/) - Lightweight, fast and free web browser.
+- [Nav0](https://nav0.org) - Minimal, privacy-focused web browser with zero telemetry or tracking. 👏
 - [Opera](https://www.opera.com) - Fast, secure, easy-to-use and free VPN.
 - [Tor](https://www.torproject.org/) - Contain everything you need to safely browse the internet.
 - [Vivaldi](https://vivaldi.com) - Powerful, personal and flexible browser.
