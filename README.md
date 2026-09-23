@@ -231,6 +231,7 @@
 - [Cursay](https://github.com/shadoprizm/cursay) - Local-first push-to-talk dictation for Ubuntu that pastes transcribed speech into the active app. 👏
 - [Noctis](https://noctis.c0nn3ct.info/) - Chrome extension that routes browser traffic through your own VLESS, Trojan, Shadowsocks, Hysteria2, TUIC, or WireGuard servers, driven by a local sing-box, Xray, or mihomo core.
 - [OpenTypeless](https://github.com/tover0314-w/opentypeless) - Cross-platform AI voice typing app that turns speech into polished text in any app. 👏
+- [Screenpipe](https://github.com/screenpipe/screenpipe) - Searchable screen text and audio history for recall and AI context via a local API and MCP. Linux builds from source; source-available under the Screenpipe Commercial License.
 - [SessionSifu](https://github.com/tpluharik/SessionSifu) - Restores applications, documents, workspaces, and window layouts, with an optional private local visual timeline. 👏
 
 ## Version Control
