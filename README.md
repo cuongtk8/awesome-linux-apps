@@ -12,6 +12,7 @@
 - [Cloud Storage](#cloud-storage)
 - [Code Editors](#code-editors)
 - [Databases](#databases)
+- [Desktop Customization](#desktop-customization)
 - [Game](#game)
 - [Health](#health)
 - [IDEs](#ides)
@@ -121,6 +122,10 @@
 - [Postbird](https://github.com/Paxa/postbird) - Cross-platform PostgreSQL GUI client, written in JavaScript, runs with Electron. 👏
 - [Postgres admin](https://www.pgadmin.org/download/) - Free Postgres admin GUI, you can export and import database and rarely fail.
 - [Robo 3T](https://robomongo.org/) - Free lightweight GUI for MongoDB enthusiasts.
+
+## Desktop Customization
+
+- [Velora Desktop](https://github.com/Anuppaul/velora-desktop) - GNOME Shell 50 extension that applies a Liquid Glass material to native Shell surfaces and adds a radial launcher and Spotlight-style app search. 👏
 
 ## Game
 
