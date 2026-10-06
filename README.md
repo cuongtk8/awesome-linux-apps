@@ -161,6 +161,7 @@
 - [Fotoxx](https://kornelix.net/fotoxx/fotoxx.html) - Free & Open-source photo editing and collection management tool. 👏
 - [GIMP](https://github.com/GNOME/gimp) - Free & Open Source Image Editor. 👏
 - [GrafX2](http://grafx2.chez.com/) - Bitmap paint program inspired by Deluxe Paint on Amiga.
+- [IconVectors](https://iconvectors.io/) - Desktop SVG icon editor with vector editing, SVG cleanup, and code export for web and native interfaces. Paid software with a 30-day trial.
 - [Inkscape](https://github.com/inkscape/inkscape) - Professional vector graphics editor. 👏
 - [Karbon](https://www.calligra.org/karbon/) - Vector drawing application that is easy to use, highly customizable and extensible.
 - [Krita](https://github.com/KDE/krita) - Open source professional software and free digital painting. 👏
