@@ -257,6 +257,7 @@
 
 ## Video
 
+- [Arroxy](https://github.com/antonio-orionus/Arroxy) - Video and audio downloader for YouTube and other yt-dlp-supported sites, distributed as AppImage, Flatpak and tar.gz. 👏
 - [Bomi](https://bomi-player.github.io/) - Powerful and Easy-to-use multimedia player. 👏
 - [Kodi](https://github.com/xbmc/xbmc) - Free and open source media player application. 👏
 - [Miro](https://github.com/pculture/miro) - Beautiful, open-source music and video player that lets you break free! 👏
