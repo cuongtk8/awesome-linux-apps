@@ -111,6 +111,7 @@
 
 ## Databases
 
+- [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern, easy-to-use SQL editor and database manager for MySQL, PostgreSQL, SQLite, SQL Server and more. 👏
 - [CockroachDB](https://github.com/cockroachdb/cockroach) - CockroachDB is a distributed SQL database built on a transactional and strongly-consistent key-value store. 👏
 - [DB Browser for SQLite](https://github.com/sqlitebrowser/sqlitebrowser) - High quality, visual, open source tool with SQLite. 👏
 - [DBeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client. 👏
@@ -161,6 +162,7 @@
 - [Fotoxx](https://kornelix.net/fotoxx/fotoxx.html) - Free & Open-source photo editing and collection management tool. 👏
 - [GIMP](https://github.com/GNOME/gimp) - Free & Open Source Image Editor. 👏
 - [GrafX2](http://grafx2.chez.com/) - Bitmap paint program inspired by Deluxe Paint on Amiga.
+- [IconVectors](https://iconvectors.io/) - Desktop SVG icon editor with vector editing, SVG cleanup, and code export for web and native interfaces. Paid software with a 30-day trial.
 - [Inkscape](https://github.com/inkscape/inkscape) - Professional vector graphics editor. 👏
 - [Karbon](https://www.calligra.org/karbon/) - Vector drawing application that is easy to use, highly customizable and extensible.
 - [Krita](https://github.com/KDE/krita) - Open source professional software and free digital painting. 👏
@@ -180,6 +182,7 @@
 
 - [ghostwriter](https://github.com/wereturtle/ghostwriter) - Cross-platform, aesthetic, distraction-free Markdown editor. 👏
 - [Haroopad](https://github.com/rhiokim/haroopad) - The next document processor based on Markdown. 👏
+- [Markdific](https://markdific.com/) - Cross-platform Markdown viewer and editor with WYSIWYG editing, autosave, multiple themes, a live split preview, and export to PDF, Word and HTML.
 - [Marktext](https://marktext.app) - Simple and Elegant Markdown Editor, focused on speed and usability. 👏
 - [Moeditor](https://github.com/Moeditor/Moeditor) - Your all-purpose Markdown editor. 👏
 - [Remarkable](https://github.com/jamiemcg/remarkable) - Open source, lightweight and powerful Markdown editor. 👏
@@ -236,9 +239,11 @@
 - [CrossMacro](https://github.com/alper-han/CrossMacro) - Cross-platform mouse and keyboard macro recorder, player, editor, and text expansion tool with Wayland and X11 support. 👏
 - [Cursay](https://github.com/shadoprizm/cursay) - Local-first push-to-talk dictation for Ubuntu that pastes transcribed speech into the active app. 👏
 - [EXIF Hound](https://github.com/minimallyexceptional/exif-hound) - Inspect image EXIF metadata locally, map GPS-tagged photos, import KML and export CSV/JSON. 👏
+- [Leviate](https://github.com/vladpereverzyev/leviate) - Moves the mouse and 3D programs with hand gestures through the webcam or a phone, with the hand tracked on the computer. 👏
+- [Mount Medic](https://github.com/aakashH242/mount-medic) - Diagnoses NTFS mount failures and offers limited, permission-controlled repairs on Linux. 👏
 - [Noctis](https://noctis.c0nn3ct.info/) - Chrome extension that routes browser traffic through your own VLESS, Trojan, Shadowsocks, Hysteria2, TUIC, or WireGuard servers, driven by a local sing-box, Xray, or mihomo core.
 - [OpenTypeless](https://github.com/tover0314-w/opentypeless) - Cross-platform AI voice typing app that turns speech into polished text in any app. 👏
-- [Screenpipe](https://github.com/screenpipe/screenpipe) - Searchable screen text and audio history for recall and AI context via a local API and MCP. Linux builds from source; source-available under the Screenpipe Commercial License.
+- [Screenpipe](https://github.com/screenpipe/screenpipe) - Searchable screen text and audio history for recall and AI context via a local API and MCP. Linux AppImage and source builds available; source-available under the Screenpipe Commercial License.
 - [SessionSifu](https://github.com/tpluharik/SessionSifu) - Restores applications, documents, workspaces, and window layouts, with an optional private local visual timeline. 👏
 - [YYLO Ledger](https://github.com/yylo-dev/yylo-ledger) - Git-native task and Record store with a shell-friendly CLI: reviewable current state, append-only history, and bounded queries for coding-agent workflows. 👏
 
@@ -258,6 +263,7 @@
 
 ## Video
 
+- [Arroxy](https://github.com/antonio-orionus/Arroxy) - Video and audio downloader for YouTube and other yt-dlp-supported sites, distributed as AppImage, Flatpak and tar.gz. 👏
 - [Bomi](https://bomi-player.github.io/) - Powerful and Easy-to-use multimedia player. 👏
 - [Kodi](https://github.com/xbmc/xbmc) - Free and open source media player application. 👏
 - [Miro](https://github.com/pculture/miro) - Beautiful, open-source music and video player that lets you break free! 👏
@@ -284,4 +290,4 @@
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Cuong Nguyen](https://www.linkedin.com/in/cuong9) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Cuong Nguyen](https://github.com/cuongtk8) has waived all copyright and related or neighboring rights to this work.
