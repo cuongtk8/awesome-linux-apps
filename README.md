@@ -247,6 +247,7 @@
 - [OpenTypeless](https://github.com/tover0314-w/opentypeless) - Cross-platform AI voice typing app that turns speech into polished text in any app. 👏
 - [Screenpipe](https://github.com/screenpipe/screenpipe) - Searchable screen text and audio history for recall and AI context via a local API and MCP. Linux AppImage and source builds available; source-available under the Screenpipe Commercial License.
 - [SessionSifu](https://github.com/tpluharik/SessionSifu) - Restores applications, documents, workspaces, and window layouts, with an optional private local visual timeline. 👏
+- [vhr-bench](https://github.com/vpshostreview/vhr-vps-benchmark) - Benchmarks a Linux server's CPU, memory and 4k random disk IOPS in about a minute. 👏
 - [YYLO Ledger](https://github.com/yylo-dev/yylo-ledger) - Git-native task and Record store with a shell-friendly CLI: reviewable current state, append-only history, and bounded queries for coding-agent workflows. 👏
 
 ## Version Control
