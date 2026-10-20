@@ -273,6 +273,7 @@
 - [OBS Studio](https://github.com/obsproject/obs-studio) - Free and open source software for video recording and live streaming. 👏
 - [SimpleScreenRecorder](https://github.com/MaartenBaert/ssr) - Free and open source screen recording is easy to do. 👏
 - [SMPlayer](https://www.smplayer.info/) - Free Media Player with built-in codecs.
+- [TMPlayer](https://github.com/dracu-lah/TMPlayer) - Player for the videos already in your own Telegram chats that starts while they download, as an AppImage, unofficial and not affiliated with Telegram. 👏
 - [VLC](https://github.com/videolan/vlc) - Free and open source cross-platform multimedia player and framework. 👏
 
 ## Virtualization
