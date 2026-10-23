@@ -175,6 +175,7 @@
 
 ## Mail
 
+- [Aster Mail](https://github.com/Aster-Privacy/Aster-Mail) - End-to-end encrypted email client with post-quantum protection, PGP, aliases and custom domains. 👏
 - [Hiri](https://www.hiri.com/) - Linux email client for Exchange and Office 365.
 - [Mailspring](https://github.com/Foundry376/Mailspring) - Free, open source, beautiful and fast mail client. 👏
 - [Thunderbird](https://www.thunderbird.net) - Free email application, easy to install and customize.
