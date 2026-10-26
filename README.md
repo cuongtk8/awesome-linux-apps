@@ -203,6 +203,7 @@
 ## Notes
 
 - [Boostnote](https://github.com/BoostIO/Boostnote) - Intuitive and stylish note taking tool for developers. 👏
+- [Koru](https://github.com/koruworks/mono) - Local-first notes and docs workspace written in Rust, with peer-to-peer device sync and a nightly Linux build. 👏
 - [Laverna](https://github.com/Laverna/laverna) - Keep your notes private. 👏
 - [notes](https://github.com/Standard-Unix-Notes/unix-notes) - GPG Encrypted Notes/Notebook manager for BSD/Linux👏
 - [Simplenote](https://github.com/Automattic/simplenote-electron) - Light, clean and free. 👏
