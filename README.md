@@ -183,6 +183,7 @@
 
 - [ghostwriter](https://github.com/wereturtle/ghostwriter) - Cross-platform, aesthetic, distraction-free Markdown editor. 👏
 - [Haroopad](https://github.com/rhiokim/haroopad) - The next document processor based on Markdown. 👏
+- [Markd.ly](https://bravely.dev/markdly) - Native markdown editor for Mac, Windows, Linux, iPhone, iPad and Android, with Word, EPUB, PDF and slide export.
 - [Markdific](https://markdific.com/) - Cross-platform Markdown viewer and editor with WYSIWYG editing, autosave, multiple themes, a live split preview, and export to PDF, Word and HTML.
 - [Marktext](https://marktext.app) - Simple and Elegant Markdown Editor, focused on speed and usability. 👏
 - [Moeditor](https://github.com/Moeditor/Moeditor) - Your all-purpose Markdown editor. 👏
