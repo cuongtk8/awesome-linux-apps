@@ -206,6 +206,7 @@
 - [Laverna](https://github.com/Laverna/laverna) - Keep your notes private. 👏
 - [notes](https://github.com/Standard-Unix-Notes/unix-notes) - GPG Encrypted Notes/Notebook manager for BSD/Linux👏
 - [Simplenote](https://github.com/Automattic/simplenote-electron) - Light, clean and free. 👏
+- [Sticki.ly](https://bravely.dev/stickily) - The dead-simple sticky note that syncs across every device you own. Text plus one file per sticki, on Mac, Windows, Linux, iPhone, Android, and the web.
 - [Tagspaces](https://github.com/tagspaces/tagspaces) - Offline, open source and data manager. 👏
 - [Turtl](https://github.com/turtl/desktop) - Secure and collaborative notebook. 👏
 - [Obsidian](https://obsidian.md) - Powerful note-keeping in markdown with tons of plugins.
