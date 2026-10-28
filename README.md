@@ -237,6 +237,7 @@
 
 ## Utilities
 
+- [Anki Miner](https://github.com/0xzerolight/anki_miner) - Desktop app for automated Anki language vocabulary card creation from video, audio, manga and books, in 32 languages. 👏
 - [CrossMacro](https://github.com/alper-han/CrossMacro) - Cross-platform mouse and keyboard macro recorder, player, editor, and text expansion tool with Wayland and X11 support. 👏
 - [Cursay](https://github.com/shadoprizm/cursay) - Local-first push-to-talk dictation for Ubuntu that pastes transcribed speech into the active app. 👏
 - [EXIF Hound](https://github.com/minimallyexceptional/exif-hound) - Inspect image EXIF metadata locally, map GPS-tagged photos, import KML and export CSV/JSON. 👏
