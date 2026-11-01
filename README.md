@@ -277,6 +277,7 @@
 
 ## Virtualization
 
+- [AQEMU](https://github.com/chronic8000/aqemu) - Qt GUI for QEMU with a VM creation wizard and 230 OS profiles. 👏
 - [Docker](https://www.docker.com/) - Powerful, performs operating-system-level virtualization. 👏
 - [Docker Machine](https://github.com/docker/machine) - Machine management for a container-centric world. 👏
 - [Gnome Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes) - Easy to view, access, and manage remote and virtual systems. 👏
