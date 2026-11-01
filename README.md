@@ -226,6 +226,7 @@
 - [Hyper](https://github.com/zeit/hyper) - Terminal built on web technologies. 👏
 - [Kitty](https://github.com/kovidgoyal/kitty) - Fast, feature-rich, cross-platform, GPU based terminal. 👏
 - [Konsole](https://github.com/KDE/konsole) - Terminal emulator for the K Desktop Environment. 👏
+- [Roastfetch](https://github.com/ethembeldagli/roastfetch) - Shows your usual fastfetch or neofetch output, then roasts your setup. 👏
 - [st](https://st.suckless.org/) - Simple terminal implementation for X. 👏
 - [Terminator](https://github.com/gnome-terminator/terminator) - Multiple terminals in one window. 👏
 - [Termite](https://github.com/thestinger/termite) - A keyboard-centric VTE-based terminal. 👏
