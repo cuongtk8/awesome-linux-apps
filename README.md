@@ -227,6 +227,7 @@
 - [Kitty](https://github.com/kovidgoyal/kitty) - Fast, feature-rich, cross-platform, GPU based terminal. 👏
 - [Konsole](https://github.com/KDE/konsole) - Terminal emulator for the K Desktop Environment. 👏
 - [st](https://st.suckless.org/) - Simple terminal implementation for X. 👏
+- [Terminal Wrapped](https://github.com/ethembeldagli/termwrapped) - Spotify-style yearly recap of your shell history, git commits, packages and games, with a shareable card. 👏
 - [Terminator](https://github.com/gnome-terminator/terminator) - Multiple terminals in one window. 👏
 - [Termite](https://github.com/thestinger/termite) - A keyboard-centric VTE-based terminal. 👏
 - [Tilda](https://github.com/lanoxx/tilda) - Easy to configure the hotkeys and change the appearance. 👏
