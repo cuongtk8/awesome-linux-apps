@@ -240,6 +240,7 @@
 - [CrossMacro](https://github.com/alper-han/CrossMacro) - Cross-platform mouse and keyboard macro recorder, player, editor, and text expansion tool with Wayland and X11 support. 👏
 - [Cursay](https://github.com/shadoprizm/cursay) - Local-first push-to-talk dictation for Ubuntu that pastes transcribed speech into the active app. 👏
 - [EXIF Hound](https://github.com/minimallyexceptional/exif-hound) - Inspect image EXIF metadata locally, map GPS-tagged photos, import KML and export CSV/JSON. 👏
+- [Galaxy Buds Ubuntu Switcher](https://github.com/pulkitmundra/galaxy-buds-ubuntu) - GNOME Quick Settings switcher, live battery monitor, A2DP/HFP toggle, and Android call auto-handoff for Samsung Galaxy Buds. 👏
 - [Leviate](https://github.com/vladpereverzyev/leviate) - Moves the mouse and 3D programs with hand gestures through the webcam or a phone, with the hand tracked on the computer. 👏
 - [Libre Calculator](https://librecalculator.com) - Topic calculators for web and desktop with worked steps, diagrams and lessons. 👏
 - [Mount Medic](https://github.com/aakashH242/mount-medic) - Diagnoses NTFS mount failures and offers limited, permission-controlled repairs on Linux. 👏
@@ -267,9 +268,11 @@
 
 - [Arroxy](https://github.com/antonio-orionus/Arroxy) - Video and audio downloader for YouTube and other yt-dlp-supported sites, distributed as AppImage, Flatpak and tar.gz. 👏
 - [Bomi](https://bomi-player.github.io/) - Powerful and Easy-to-use multimedia player. 👏
+- [Crunchyroll Ubuntu Desktop](https://github.com/pulkitmundra/crunchyroll-ubuntu-desktop) - Unofficial Crunchyroll desktop and HTPC client for Linux with Widevine DRM, custom lists, auto-skip HUD, and picture-in-picture mini-player. 👏
 - [Kodi](https://github.com/xbmc/xbmc) - Free and open source media player application. 👏
 - [Miro](https://github.com/pculture/miro) - Beautiful, open-source music and video player that lets you break free! 👏
 - [mpv](https://github.com/mpv-player/mpv) - Free, open source, and cross-platform media player. 👏
+- [NVR Command Center](https://github.com/pulkitmundra/nvr-command-center) - Low-latency GPU RTSP IP camera, CCTV, and Cloud P2P NVR surveillance viewer in Rust. 👏
 - [OBS Studio](https://github.com/obsproject/obs-studio) - Free and open source software for video recording and live streaming. 👏
 - [SimpleScreenRecorder](https://github.com/MaartenBaert/ssr) - Free and open source screen recording is easy to do. 👏
 - [SMPlayer](https://www.smplayer.info/) - Free Media Player with built-in codecs.
