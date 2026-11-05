@@ -93,6 +93,7 @@
 - [NextCloud](https://nextcloud.com) - Free, open source cloud storage and collaboration platform.
 - [pCloud](https://www.pcloud.com) - Secure online storage from Switzerland.
 - [insync](https://www.insynchq.com/) - Google Drive and OneDrive file syncing
+- [Skykeep](https://github.com/YashwanthKamireddi/Skykeep) - iCloud Drive, Photos, Notes, Reminders, Calendar and Contacts as desktop apps. 👏
 - [Terrabox](https://www.terabox.com/) - Get free cloud storage 1024GB. 
 
 ## Code Editors
