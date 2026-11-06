@@ -215,6 +215,7 @@
 ## Office
 
 - [LibreOffice](https://www.libreoffice.org/) - Best free office suite in the Linux community. 👏
+- [Malferma Libro](https://github.com/gagafes/malferma-libro) - GTK4/libadwaita ebook reader with a local library, OPDS catalogs, and support for EPUB, FB2, PDF, DjVu and CBZ. 👏
 - [OpenOffice](https://www.openoffice.org/) - The free and open productive suite. 👏
 - [WPS Office](https://www.wps.com/en-US/office/linux/) - Beautiful, faster, lightweight and offers modern slick user interface.
 
