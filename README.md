@@ -237,6 +237,7 @@
 
 ## Utilities
 
+- [Blind Pew](https://github.com/gagafes/blind-pew) - Offline multilingual IBus transliteration switcher for Linux desktops, with F12 toggle and QWERTY/QWERTZ support. 👏
 - [CrossMacro](https://github.com/alper-han/CrossMacro) - Cross-platform mouse and keyboard macro recorder, player, editor, and text expansion tool with Wayland and X11 support. 👏
 - [Cursay](https://github.com/shadoprizm/cursay) - Local-first push-to-talk dictation for Ubuntu that pastes transcribed speech into the active app. 👏
 - [EXIF Hound](https://github.com/minimallyexceptional/exif-hound) - Inspect image EXIF metadata locally, map GPS-tagged photos, import KML and export CSV/JSON. 👏
