@@ -168,6 +168,7 @@
 - [Karbon](https://www.calligra.org/karbon/) - Vector drawing application that is easy to use, highly customizable and extensible.
 - [Krita](https://github.com/KDE/krita) - Open source professional software and free digital painting. 👏
 - [MyPaint](https://github.com/mypaint/mypaint) - Fast and dead-simple painting app for artists. 👏
+- [PeerBrush](https://peerbrush.com/downloads.html) - Desktop painting and compositing with brushes, masks, and support for editable layered RGB PSDs. 👏
 - [Pinta](https://github.com/PintaProject/Pinta) - Free, open source program for drawing and image editing. 👏
 - [Shotcut](https://www.shotcut.org/) - Free, open source, cross-platform video editor. 👏
 - [ShowFOTO](https://apps.kde.org/showfoto/) - Free & Lightweight image editor.
