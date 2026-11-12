@@ -175,6 +175,7 @@
 
 ## Mail
 
+- [CitrusMail](https://github.com/citrusmail/citrusmail) - Mail, calendar and contacts client for any IMAP, POP3 or JMAP provider. 👏
 - [Hiri](https://www.hiri.com/) - Linux email client for Exchange and Office 365.
 - [Mailspring](https://github.com/Foundry376/Mailspring) - Free, open source, beautiful and fast mail client. 👏
 - [Thunderbird](https://www.thunderbird.net) - Free email application, easy to install and customize.
