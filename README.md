@@ -244,6 +244,7 @@
 - [Libre Calculator](https://librecalculator.com) - Topic calculators for web and desktop with worked steps, diagrams and lessons. 👏
 - [Mount Medic](https://github.com/aakashH242/mount-medic) - Diagnoses NTFS mount failures and offers limited, permission-controlled repairs on Linux. 👏
 - [Noctis](https://noctis.c0nn3ct.info/) - Chrome extension that routes browser traffic through your own VLESS, Trojan, Shadowsocks, Hysteria2, TUIC, or WireGuard servers, driven by a local sing-box, Xray, or mihomo core.
+- [Noviscan](https://noviscan.app/) - Intruder detection for existing IP cameras using face recognition processed on your own computer, installed on Debian and Ubuntu from a signed apt repository.
 - [OpenTypeless](https://github.com/tover0314-w/opentypeless) - Cross-platform AI voice typing app that turns speech into polished text in any app. 👏
 - [Screenpipe](https://github.com/screenpipe/screenpipe) - Searchable screen text and audio history for recall and AI context via a local API and MCP. Linux AppImage and source builds available; source-available under the Screenpipe Commercial License.
 - [SessionSifu](https://github.com/tpluharik/SessionSifu) - Restores applications, documents, workspaces, and window layouts, with an optional private local visual timeline. 👏
