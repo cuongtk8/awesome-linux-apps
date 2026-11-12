@@ -159,6 +159,7 @@
 
 ## Image Editors
 
+- [DESIGN:OS Studio](https://jangtrinh.github.io/design-os-studio/) - Free interface design app that opens and saves .fig files and lets your AI coding agent edit them through a built-in MCP server.
 - [DigiKam](https://www.digikam.org/) - Free & Open-source digital photo management application. 👏
 - [Fotoxx](https://kornelix.net/fotoxx/fotoxx.html) - Free & Open-source photo editing and collection management tool. 👏
 - [GIMP](https://github.com/GNOME/gimp) - Free & Open Source Image Editor. 👏
