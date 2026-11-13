@@ -204,6 +204,7 @@
 
 - [Boostnote](https://github.com/BoostIO/Boostnote) - Intuitive and stylish note taking tool for developers. 👏
 - [Laverna](https://github.com/Laverna/laverna) - Keep your notes private. 👏
+- [Noteriv](https://github.com/thejacedev/Noteriv) - Markdown notes with wiki links, a graph view and Git, WebDAV or folder sync; opens Obsidian vaults. 👏
 - [notes](https://github.com/Standard-Unix-Notes/unix-notes) - GPG Encrypted Notes/Notebook manager for BSD/Linux👏
 - [Simplenote](https://github.com/Automattic/simplenote-electron) - Light, clean and free. 👏
 - [Tagspaces](https://github.com/tagspaces/tagspaces) - Offline, open source and data manager. 👏
