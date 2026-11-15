@@ -198,6 +198,7 @@
 - [cmus](https://github.com/cmus/cmus) - Small, fast and powerful console music player for Unix-like operating systems. 👏
 - [ocp](https://github.com/mywave82/opencubicplayer) - Music visualizer for various tracked music formats, chiptunes and other formats related to demoscene. 👏
 - [Lollypop](https://gitlab.gnome.org/World/lollypop/) - Modern music player for GNOME. 👏
+- [miniam](https://github.com/Wian1977/miniam) - Plays Apple Music in the terminal with true-color album art and a live spectrum. 👏
 - [Rhythmbox](https://github.com/GNOME/rhythmbox) - Music playing application for GNOME. 👏
 
 ## Notes
