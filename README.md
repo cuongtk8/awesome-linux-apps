@@ -160,6 +160,7 @@
 ## Image Editors
 
 - [DigiKam](https://www.digikam.org/) - Free & Open-source digital photo management application. 👏
+- [Fotollection](https://fotollection.org) - Free & Open-source offline tool that prepares photos for printing: culling, print-size crops, date stamps, collages, postcards, RAW develop and LUTs. 👏
 - [Fotoxx](https://kornelix.net/fotoxx/fotoxx.html) - Free & Open-source photo editing and collection management tool. 👏
 - [GIMP](https://github.com/GNOME/gimp) - Free & Open Source Image Editor. 👏
 - [GrafX2](http://grafx2.chez.com/) - Bitmap paint program inspired by Deluxe Paint on Amiga.
