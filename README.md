@@ -239,6 +239,7 @@
 
 - [CrossMacro](https://github.com/alper-han/CrossMacro) - Cross-platform mouse and keyboard macro recorder, player, editor, and text expansion tool with Wayland and X11 support. 👏
 - [Cursay](https://github.com/shadoprizm/cursay) - Local-first push-to-talk dictation for Ubuntu that pastes transcribed speech into the active app. 👏
+- [EthicalVPN](https://ethicalvpn.app) - Free VPN with Germany, US, France and UK locations, funded by opt-in sharing of your bandwidth and IP.
 - [EXIF Hound](https://github.com/minimallyexceptional/exif-hound) - Inspect image EXIF metadata locally, map GPS-tagged photos, import KML and export CSV/JSON. 👏
 - [Leviate](https://github.com/vladpereverzyev/leviate) - Moves the mouse and 3D programs with hand gestures through the webcam or a phone, with the hand tracked on the computer. 👏
 - [Libre Calculator](https://librecalculator.com) - Topic calculators for web and desktop with worked steps, diagrams and lessons. 👏
