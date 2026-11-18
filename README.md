@@ -199,6 +199,7 @@
 - [ocp](https://github.com/mywave82/opencubicplayer) - Music visualizer for various tracked music formats, chiptunes and other formats related to demoscene. 👏
 - [Lollypop](https://gitlab.gnome.org/World/lollypop/) - Modern music player for GNOME. 👏
 - [Rhythmbox](https://github.com/GNOME/rhythmbox) - Music playing application for GNOME. 👏
+- [Zenith](https://github.com/tonieninja/zenith-player) - Unofficial YouTube Music player with synced lyrics, a 15-band equalizer and offline downloads. 👏
 
 ## Notes
 
