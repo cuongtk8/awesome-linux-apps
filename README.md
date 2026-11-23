@@ -233,6 +233,7 @@
 - [Tilix](https://github.com/gnunn1/tilix/) - Tiling terminal emulator using GTK+ 3. 👏
 - [Tmux](https://github.com/tmux/tmux/) - Tmux is a terminal multiplexer, like screen, but much better. 👏
 - [Upterm](https://github.com/railsware/upterm) - Terminal emulator for the 21st century. 👏
+- [Wardterm](https://wardterm.com) - SSH and SFTP client with Mosh, Telnet, a built-in code editor for remote files and an end-to-end encrypted vault for servers and keys, as an AppImage or .deb.
 - [YYLO](https://github.com/yylo-dev/yylo) - CLI for orchestrating multiple coding agents from the terminal: Kanban-ledger task state and native Git merges across agent worktrees. 👏
 
 ## Utilities
