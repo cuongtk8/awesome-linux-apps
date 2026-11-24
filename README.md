@@ -38,6 +38,7 @@
 - [Frinika](http://www.frinika.com/) - Free, complete music workstation software.
 - [LMMS](https://github.com/LMMS/lmms) - Free cross-platform music production software. 👏
 - [Ocenaudio](http://www.ocenaudio.com/) - Easy, fast and powerful audio editor.
+- [Pinna](https://github.com/saiv0n/pinna) - Battery, noise control and settings for AirPods, with a tray icon and a high quality mic for calls. 👏
 
 ## Backup
 
