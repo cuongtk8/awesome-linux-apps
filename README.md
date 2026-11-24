@@ -142,6 +142,7 @@
 ## Health
 
 - [UpSit](https://github.com/aykhanstoic/superposture) - Tracks sitting posture from the webcam using an on-device ML model and nudges you when you slouch; nothing is ever uploaded. 👏
+- [Yonder](https://github.com/RMoura98/yonder) - Break reminder for the 20-20-20 rule with a calm full-screen break, posture and blink reminders and smart pause during calls. 👏
 
 ## IDEs
 
