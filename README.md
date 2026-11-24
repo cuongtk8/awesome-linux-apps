@@ -269,6 +269,7 @@
 - [Bomi](https://bomi-player.github.io/) - Powerful and Easy-to-use multimedia player. 👏
 - [Kodi](https://github.com/xbmc/xbmc) - Free and open source media player application. 👏
 - [Miro](https://github.com/pculture/miro) - Beautiful, open-source music and video player that lets you break free! 👏
+- [MovieCat](https://moviecat.org) - Turns folders of movie and TV files into a poster library with IMDb ratings; no account needed. 👏
 - [mpv](https://github.com/mpv-player/mpv) - Free, open source, and cross-platform media player. 👏
 - [OBS Studio](https://github.com/obsproject/obs-studio) - Free and open source software for video recording and live streaming. 👏
 - [SimpleScreenRecorder](https://github.com/MaartenBaert/ssr) - Free and open source screen recording is easy to do. 👏
