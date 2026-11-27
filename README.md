@@ -245,6 +245,7 @@
 - [Mount Medic](https://github.com/aakashH242/mount-medic) - Diagnoses NTFS mount failures and offers limited, permission-controlled repairs on Linux. 👏
 - [Noctis](https://noctis.c0nn3ct.info/) - Chrome extension that routes browser traffic through your own VLESS, Trojan, Shadowsocks, Hysteria2, TUIC, or WireGuard servers, driven by a local sing-box, Xray, or mihomo core.
 - [OpenTypeless](https://github.com/tover0314-w/opentypeless) - Cross-platform AI voice typing app that turns speech into polished text in any app. 👏
+- [Prism](https://github.com/FortoGraphy/prism-download-manager) - Multi-connection download manager with crash-safe resume, browser capture, video and torrent downloads, shipped as .deb, .rpm and AppImage. 👏
 - [Screenpipe](https://github.com/screenpipe/screenpipe) - Searchable screen text and audio history for recall and AI context via a local API and MCP. Linux AppImage and source builds available; source-available under the Screenpipe Commercial License.
 - [SessionSifu](https://github.com/tpluharik/SessionSifu) - Restores applications, documents, workspaces, and window layouts, with an optional private local visual timeline. 👏
 - [YYLO Ledger](https://github.com/yylo-dev/yylo-ledger) - Git-native task and Record store with a shell-friendly CLI: reviewable current state, append-only history, and bounded queries for coding-agent workflows. 👏
