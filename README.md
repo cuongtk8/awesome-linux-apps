@@ -216,6 +216,7 @@
 
 - [LibreOffice](https://www.libreoffice.org/) - Best free office suite in the Linux community. 👏
 - [OpenOffice](https://www.openoffice.org/) - The free and open productive suite. 👏
+- [Tesseract](https://tesseract.dev) - Desktop app with an AI agent that makes Word documents, spreadsheets, presentations and PDFs from a plain request, and fills, signs and marks up PDFs.
 - [WPS Office](https://www.wps.com/en-US/office/linux/) - Beautiful, faster, lightweight and offers modern slick user interface.
 
 ## Terminal
