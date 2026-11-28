@@ -38,6 +38,7 @@
 - [Frinika](http://www.frinika.com/) - Free, complete music workstation software.
 - [LMMS](https://github.com/LMMS/lmms) - Free cross-platform music production software. 👏
 - [Ocenaudio](http://www.ocenaudio.com/) - Easy, fast and powerful audio editor.
+- [Ploq](https://ploq.app) - Music notation app based on MuseScore where several people edit the same score at once, with live cursors. 👏
 
 ## Backup
 
